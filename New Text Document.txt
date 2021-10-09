@@ -1,0 +1,3 @@
+37cb45e95889899b6d24992ced793945 ----api key
+
+api.openweathermap.org/data/2.5/weather?q=lucknow&appid=8f0af94974be33e6b105fc66c4aac9bb
