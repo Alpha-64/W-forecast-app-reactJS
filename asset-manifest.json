@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/W-forecast-app-reactJS/static/css/main.6177dd95.chunk.css",
+    "main.js": "/W-forecast-app-reactJS/static/js/main.14d3864f.chunk.js",
+    "main.js.map": "/W-forecast-app-reactJS/static/js/main.14d3864f.chunk.js.map",
+    "runtime-main.js": "/W-forecast-app-reactJS/static/js/runtime-main.5d7db143.js",
+    "runtime-main.js.map": "/W-forecast-app-reactJS/static/js/runtime-main.5d7db143.js.map",
+    "static/js/2.3cdb1ea4.chunk.js": "/W-forecast-app-reactJS/static/js/2.3cdb1ea4.chunk.js",
+    "static/js/2.3cdb1ea4.chunk.js.map": "/W-forecast-app-reactJS/static/js/2.3cdb1ea4.chunk.js.map",
+    "index.html": "/W-forecast-app-reactJS/index.html",
+    "static/css/main.6177dd95.chunk.css.map": "/W-forecast-app-reactJS/static/css/main.6177dd95.chunk.css.map",
+    "static/js/2.3cdb1ea4.chunk.js.LICENSE.txt": "/W-forecast-app-reactJS/static/js/2.3cdb1ea4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7db143.js",
+    "static/js/2.3cdb1ea4.chunk.js",
+    "static/css/main.6177dd95.chunk.css",
+    "static/js/main.14d3864f.chunk.js"
+  ]
+}
